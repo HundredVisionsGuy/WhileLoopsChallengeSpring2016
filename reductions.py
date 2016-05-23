@@ -1,6 +1,6 @@
 # reductions.py
 # by 
-
+ 
 ## receives a number: x
 ## outputs a string of numbers that starts with the number and decreases by .5 as long as the x value is positive
 ## NOTE: if it receives a negative number, it returns a 0
@@ -12,3 +12,4 @@
 ##    Output: '0'
 ## WARNING:
 ##    do not include a comma and space at the end of the string
+ 

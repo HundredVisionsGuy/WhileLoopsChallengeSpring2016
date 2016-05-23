@@ -32,7 +32,7 @@ class KnownValues(unittest.TestCase):
         # Check for expected output
         self.assertEqual('13, 15, 17, 19, 21, 23', result)
 
-    
+     
 # Run the tests
 if __name__ == '__main__':
     unittest.main()

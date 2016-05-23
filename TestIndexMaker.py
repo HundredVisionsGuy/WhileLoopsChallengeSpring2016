@@ -5,8 +5,6 @@ import unittest
 import indexMaker
 
 class KnownValues(unittest.TestCase):
-    # Formula for unittest method is:
-    # test_functionName_testDescription
     
     def test_indexMakerForShortEntry(self):
         # Capture the results of the function

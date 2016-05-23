@@ -13,4 +13,4 @@
 ##      Expected output: "4, 6, 8, 10, 12"
 ##  Ex2:
 ##      Inputs: 4 & 14
-##      Expected output: "4, 6, 8, 10, 12, 14"
+##      Expected output: "4, 6, 8, 10, 12, 14" 

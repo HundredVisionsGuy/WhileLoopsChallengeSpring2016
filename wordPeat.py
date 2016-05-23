@@ -10,4 +10,3 @@
 ## Ex2:
 ##    Input: "hello"
 ##    Expected output: "hellohellohellohellohello"
-##

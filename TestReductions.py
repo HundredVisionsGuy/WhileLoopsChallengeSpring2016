@@ -1,13 +1,5 @@
 # Testreductions.py
 
-# What are we testing for?
-
-# Wide range of inputs
-    # - proper and improper
-# Boundary Conditions
-# Correct outputs
-# Test for exceptions
-
 # Import Statements
 import unittest
 import reductions

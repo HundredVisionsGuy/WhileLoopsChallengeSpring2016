@@ -8,4 +8,4 @@
 ##    Don't forget to use the len() function
 ## Example: 
 ##    Inputs: turtle & 153
-##    Output: "turtle.....................153"
+##    Output: "turtle.....................153" 
